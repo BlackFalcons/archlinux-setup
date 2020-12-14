@@ -1,5 +1,4 @@
 # Arch linux EFI tutorial.
-___
 
 How to use this Arch Linux tutorial.
 
