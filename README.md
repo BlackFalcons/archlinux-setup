@@ -1,4 +1,4 @@
-Arch linux EFI tutorial.
+#Arch linux EFI tutorial.
 
 How to use this Arch Linux tutorial. {
     1. # tells you that it is a comment.
