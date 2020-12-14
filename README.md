@@ -157,10 +157,10 @@ visudo {
 ### Shutdown VM
 `shutdown now`
 
-####Edit VM settings
+#### Edit VM settings
 `! Enter "settings -> storage" then remove the archlinux iso from storage devices.`
 
-####Virtual box
+#### Virtual box
 `! Launch your arch linux distro and enter your non root username and password.`
 
 # Optinal
