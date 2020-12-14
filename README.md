@@ -169,4 +169,4 @@ visudo {
 
 ### Enable networkmanager
 `systemctl enable NetworkManager`
-#####There you go, you have successfully installed Arch linux on a VM.
+##### There you go, you have successfully installed Arch linux on a VM.
